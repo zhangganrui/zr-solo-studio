@@ -39,15 +39,21 @@
 
 ## 依赖的角色 skill（来源致谢）
 
-本 skill 是**编排层**，它调度的三个核心角色 skill 均由 **云中江树（yzfly）** 创作。强烈建议先安装它们，并阅读各自仓库：
+本 skill 是**编排层**，自己不画图不写码，串起四个角色 skill。请先安装它们、并阅读各自仓库。
+
+**流水线从第 ① 步 real-demand 开始** —— 它是整条流水线的起点，在动手前先判断"这是不是一个真需求"（基于梁宁《真需求》），由本仓库作者所作：
+
+| 起点 | 作者 | 仓库 |
+|---|---|---|
+| **① real-demand** · 在动手前判断真需求 | 本仓库作者 [@zhangganrui](https://github.com/zhangganrui) | https://github.com/zhangganrui/zr-real-demand |
+
+其余三个核心角色 skill 均由 **云中江树（[@yzfly](https://github.com/yzfly)）** 创作，特此致谢：
 
 | 角色 | 作者 | 原始仓库 |
 |---|---|---|
-| **taste-pm** · 有品味的产品设计 | 云中江树 [@yzfly](https://github.com/yzfly) | https://github.com/yzfly/taste-pm |
-| **awesome-design-html** · 115 个品牌级 HTML 设计 | 云中江树 [@yzfly](https://github.com/yzfly) | https://github.com/yzfly/awesome-design-html |
-| **cto (CTO-Skills)** · 把想法谈成可执行设计 | 云中江树 [@yzfly](https://github.com/yzfly) | https://github.com/yzfly/CTO-Skills |
-
-> 第 0 步的 **real-demand**（在动手前判断"是不是真需求"，基于梁宁《真需求》）由本仓库作者所作：https://github.com/zhangganrui/zr-real-demand
+| **② taste-pm** · 有品味的产品设计 | 云中江树 [@yzfly](https://github.com/yzfly) | https://github.com/yzfly/taste-pm |
+| **③ awesome-design-html** · 115 个品牌级 HTML 设计 | 云中江树 [@yzfly](https://github.com/yzfly) | https://github.com/yzfly/awesome-design-html |
+| **④ cto (CTO-Skills)** · 把想法谈成可执行设计 | 云中江树 [@yzfly](https://github.com/yzfly) | https://github.com/yzfly/CTO-Skills |
 
 向云中江树致谢 🙏 —— 没有这三个 skill，这条流水线无从谈起。作者主页：https://github.com/yzfly
 
